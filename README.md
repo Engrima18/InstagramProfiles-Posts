@@ -7,5 +7,13 @@ The three data sets report information regarding precisely a multitude of posts 
 
 ## Content
 
->- functions.py
+>- functions.py: a python script that we imported as a module in the jupyter notebook, with the most of the functions we used for the given requests;
+>- main.ipynb: the jupyter notebook with all the runned functions, the algorithmic solutions, the dataframe display and plots;
+>- Commandline.sh: a bash script (runned in AWS ec2) that achieves the same results above (retreiveing information about instagram posts) but using the command line tool;
+>- ADMPG10.png / ADMPG13.png: tho tablet notes that summirize our logic scheme regarding certain algorithmic solutions we reported (AQ1 and AQ2)
+
+## Used libraries/tools:
+>- pandas, numpy, matplotlib;
+>- Unix command line;
+>- Amazon web service (ec2 and sagemaker).
 
