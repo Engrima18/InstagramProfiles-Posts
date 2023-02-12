@@ -13,7 +13,7 @@ The three data sets report information regarding precisely a multitude of posts 
 >- `ADMPG10.png` and `ADMPG13.png` : tho tablet notes that summirize our logic scheme regarding certain algorithmic solutions we reported (AQ1 and AQ2)
 
 ## Used libraries/tools:
-[Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 >- Unix command line;
 >- Amazon web service (ec2 and sagemaker).
 
